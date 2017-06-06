@@ -1,0 +1,42 @@
+﻿@model GarageStore.Models.Produto
+@using Microsoft.AspNet.Identity
+
+<div>
+    <h4>Vendedor</h4>
+    <hr />
+
+    <img width="200" src="@Url.Action("GetImage", "User", new { id=Model.UserID})" /> 
+
+    <dl class="dl-horizontal">
+        <dd>
+            @Html.DisplayFor(model => model.Users.Name)
+        </dd>
+        @if (Request.IsAuthenticated)
+            {
+                @Html.AntiForgeryToken()
+
+                <dd>
+                   Emai: @Html.DisplayFor(model => model.Users.Email)
+                </dd>
+                <dd>
+                   Telefone: @Html.DisplayFor(model => model.Users.Telephone)
+                </dd>
+
+                <dd>
+                   Bairro: @Html.DisplayFor(model => model.Users.District)
+                </dd>
+
+        }
+
+        <dd>
+           Cidade: @Html.DisplayFor(model => model.Users.City)
+        </dd>
+
+        <dd>
+            Estado:  @Html.DisplayFor(model => model.Users.State)
+        </dd>
+
+    </dl>
+</div>
+
+

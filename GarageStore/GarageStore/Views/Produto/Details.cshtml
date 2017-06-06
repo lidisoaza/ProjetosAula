@@ -1,0 +1,77 @@
+﻿@model GarageStore.Models.Produto
+
+@{
+    ViewBag.Title = "Details";
+}
+<div>
+    <h2>Details</h2>
+    @Html.Partial("_DetailsPartial")
+
+    <hr />
+    <div><img width="400" src="@Url.Action("GetImage", "Produto", new { id=Model.ProdutoID})" /></div>
+
+    <dl class="dl-horizontal">
+
+        <dd>
+            @Html.DisplayFor(model => model.TitleProduct)
+            @Html.DisplayFor(model => model.Price)
+
+        </dd>
+        <dt>
+            @Html.DisplayName("Descrição")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Categorias")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Categories.Name)
+        </dd>
+        <dt>
+
+            @Html.DisplayNameFor(model => model.Users.District)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Users.District)
+        </dd>
+        <dt>
+
+            @Html.DisplayNameFor(model => model.Users.City)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Users.City)
+        </dd>
+        <dt>
+
+            @Html.DisplayNameFor(model => model.Users.State)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Users.State)
+        </dd>
+
+    </dl>
+    @Html.ActionLink(Model.StatusVenda, "StatusVenda","Produto", new {id=Model.ProdutoID }, new { @class = "btn btn-primary" })
+    
+</div>
+
+@{Html.RenderAction("Create", "Message");}
+@Html.ActionLink("Mensagens", "Index","Message",new { id=Model.ProdutoID}, new { @class = "btn btn-primary" })
+<p>
+    @Html.ActionLink("Voltar para a Lista", "Index")
+</p>
+<div id="divPrincipal">
+    <span>Texto inicial</span>
+</div>
+<button id="btnTeste">Testar</button>
+
+@Seccion Scripts{
+
+
+ }

@@ -1,0 +1,13 @@
+﻿@model IEnumerable<GarageStore.Models.Category>
+
+<div class="container">
+    <div class="btn-group btn-group-justified">
+        @foreach (var categ in Model)
+        {
+            @Html.ActionLink(categ.Name, "OrderCateg", "Produto", new { idCat = categ.CategoryID }, new { @class = "btn btn-primary" })
+        }
+
+        @Html.ActionLink("Todas as Categorias...", "Index", "Category", null, new { @class = "btn btn-primary" })
+    </div>
+</div>
+

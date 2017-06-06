@@ -1,0 +1,60 @@
+﻿@model IEnumerable<GarageStore.Models.Produto>
+
+@{
+    ViewBag.title = "MenuSearch";
+}
+<h4>Busca Avançada</h4>
+
+@using (Html.BeginForm("MenuSearch", "Produto", FormMethod.Post, new { enctype = "multpart/form-data" }))
+{
+<div>
+  
+        <dl class="dl-horizontal">
+
+            <dt>
+                @Html.DisplayName("Busca Por Palavra-Chave")
+            </dt>
+            <dt>
+                @Html.TextBox("SearchString")
+                <input type="submit" value="Busca Rápida " />
+            </dt>
+
+            <dt>
+                @Html.DisplayName("Busca Por Categoria")
+            </dt>
+
+            <dt>
+                @Html.DropDownList("SelectedCategory", "All")
+                <input type="submit" value="Filter" />
+            </dt>
+            <dt>
+
+                @Html.DisplayName("Busca por Cidade")
+            </dt>
+
+            <dt>
+                @Html.TextBox("SearchCity")
+
+            </dt>
+            <dt>
+                @Html.DisplayName("Busca por Estado")
+            </dt>
+
+            <dt>
+                @Html.TextBox("SearchState")
+
+            </dt>
+            <dt>
+
+                @Html.DisplayName("Intervalo de Valores")
+            </dt>
+
+
+
+        </dl>
+        <input type="submit" value="Buscar" class="btn btn-default" />
+
+    </div>
+
+}
+

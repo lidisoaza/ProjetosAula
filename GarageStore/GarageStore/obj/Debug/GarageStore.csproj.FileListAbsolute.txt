@@ -1,0 +1,255 @@
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\ApplicationInsights.config
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\csc.exe
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\vbc.exe
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\GarageStore.dll.config
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\GarageStore.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\GarageStore.pdb
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Antlr3.Runtime.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\EntityFramework.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.Web.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Newtonsoft.Json.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Owin.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.Helpers.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.Mvc.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.Optimization.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.Razor.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.WebPages.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\WebGrease.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.Web.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.Helpers.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.Mvc.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.Optimization.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.Razor.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.WebPages.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Antlr3.Runtime.pdb
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Newtonsoft.Json.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\EntityFramework.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\obj\Debug\GarageStore.dll
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\obj\Debug\GarageStore.pdb
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\obj\Debug\GarageStore.csprojResolveAssemblyReference.cache
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\obj\Debug\GarageStore.Migrations.InitialCreate.resources
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\obj\Debug\GarageStore.csproj.GenerateResource.Cache
+C:\Users\Lidiane\Desktop\GarageStore\GarageStore\obj\Debug\GarageStore.Migrations.Profile.resources
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\obj\Debug\GarageStore.csprojResolveAssemblyReference.cache
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\obj\Debug\GarageStore.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\obj\Debug\GarageStore.pdb
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\ApplicationInsights.config
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\csc.exe
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\vbc.exe
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\GarageStore.dll.config
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\GarageStore.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\GarageStore.pdb
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Antlr3.Runtime.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\EntityFramework.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.Web.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Newtonsoft.Json.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Owin.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.Helpers.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.Mvc.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.Optimization.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.Razor.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.WebPages.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\WebGrease.dll
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.Web.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.Helpers.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.Mvc.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.Optimization.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.Razor.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.WebPages.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Antlr3.Runtime.pdb
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Newtonsoft.Json.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\EntityFramework.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\obj\Debug\GarageStore.Migrations.InitialCreate.resources
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\obj\Debug\GarageStore.csproj.GenerateResource.Cache
+C:\Users\Lidiane\Desktop\Nova pasta\GarageStore\GarageStore\obj\Debug\GarageStore.Migrations.Profile.resources
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\ApplicationInsights.config
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\csc.exe
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\vbc.exe
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\GarageStore.dll.config
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\GarageStore.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\GarageStore.pdb
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Antlr3.Runtime.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\EntityFramework.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.Web.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Newtonsoft.Json.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Owin.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.Helpers.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.Mvc.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.Optimization.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.Razor.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.WebPages.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\WebGrease.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.Web.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.Helpers.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.Mvc.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.Optimization.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.Razor.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.WebPages.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Antlr3.Runtime.pdb
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Newtonsoft.Json.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\EntityFramework.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\obj\Debug\GarageStore.csprojResolveAssemblyReference.cache
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\obj\Debug\GarageStore.Migrations.InitialCreate.resources
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\obj\Debug\GarageStore.Migrations.Profile.resources
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\obj\Debug\GarageStore.csproj.GenerateResource.Cache
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\obj\Debug\GarageStore.dll
+C:\Users\Lidiane\Desktop\garage05-06\GarageStore\GarageStore\obj\Debug\GarageStore.pdb

@@ -1,0 +1,93 @@
+﻿@model IEnumerable<GarageStore.Models.Produto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm())
+{
+     <div class="container-fluid">
+       @*  <p>
+        Busca por Palavra @Html.TextBox("SearchString")<br>
+        Selecione a Categoria: @Html.DropDownList("SelectedCategory", "All")<br>
+        Busca por Cidade: @Html.TextBox("SearchCity")<br>
+        Busca por Estado: @Html.TextBox("SearchState")<br>
+        <input type="submit" value="Buscar" class="btn btn-default" />
+    </p>
+
+    *@<dl class="dropdown-menu-left">
+                <dt>
+                    @Html.DisplayName("Busca Por Palavra-Chave")
+                </dt>
+                <dt>
+                    @Html.TextBox("SearchString")
+                </dt>
+
+                <dt>
+                    @Html.DisplayName("Busca Por Categoria")
+                </dt>
+
+                <dt>
+                    @Html.DropDownList("SelectedCategory", "All")
+                </dt>
+                <dt>
+
+                    @Html.DisplayName("Busca por Cidade")
+                </dt>
+
+                <dt>
+                    @Html.TextBox("SearchCity")
+
+                </dt>
+                <dt>
+                    @Html.DisplayName("Busca por Estado")
+                </dt>
+
+                <dt>
+                    @Html.TextBox("SearchState")
+
+                </dt>
+
+            </dl>
+            <input type="submit" value="Buscar" class="btn btn-default" />
+            
+    </div>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TitleProduct)
+        </th>
+        <th>
+            @Html.ActionLink("Preço", "Index", new { sortOrder = ViewBag.NameSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Data", "Index", new { sortOrder = ViewBag.NameSortParm })
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.ActionLink(item.TitleProduct, "Details", new { id = item.ProdutoID })<br>
+                @Html.DisplayFor(modelItem => item.Users.City) - @Html.DisplayFor(modelItem => item.Users.State)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateInput)
+            </td>
+
+
+        </tr>
+    }
+
+</table>

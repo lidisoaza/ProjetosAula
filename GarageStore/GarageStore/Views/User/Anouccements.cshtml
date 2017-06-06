@@ -1,0 +1,52 @@
+﻿@model IEnumerable<GarageStore.Models.Produto>
+
+@{
+    ViewBag.Title = "Anouccements";
+}
+
+<h2>Anouccements</h2>
+
+<p>
+    @Html.ActionLink("Novo Anúncio", "Create","Produto")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TitleProduct)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.ActionLink("Data do Anúncio", "Anouccements","User", new { orderBy=ViewBag.NameSortParm  }) 
+            
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem =>  item.TitleProduct)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateInput)
+        </td>
+     
+        <td>
+            @Html.ActionLink("Editar ", "Edit", new { id=item.ProdutoID }) |
+            @Html.ActionLink("Detalhe", "Details","Produto", new { id=item.ProdutoID }) |
+            @Html.ActionLink("Deletar", "Delete", new { id=item.ProdutoID })
+        </td>
+    </tr>
+}
+  
+</table>
